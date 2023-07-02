@@ -4,7 +4,7 @@ import pandas as pd
 import json
 
 def main():
-    st.title("City Data Visualization")
+    st.title("Weather Data Visualization")
     
     # Get the city name from the user
     city_name = st.text_input("Enter a city name")
